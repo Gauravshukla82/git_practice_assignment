@@ -1,13 +1,13 @@
 let factor=2;
-let Num=19;
-for(i=0;i<=Num;i++)
+let Num=13;
+for(i=1;i<=Num;i++)
 {
 	if(Num%i==0)
 	{
 		factor++;
 	}
 }
-if(factor==0)
+if(factor==2)
 {
 	console.log("It is a prime number")
 }
