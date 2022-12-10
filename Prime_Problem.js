@@ -1,4 +1,4 @@
-let factor=2;
+let factor=0;
 let Num=13;
 for(i=1;i<=Num;i++)
 {
